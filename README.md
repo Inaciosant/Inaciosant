@@ -7,15 +7,12 @@
 
 </div>
 
-<h1 style="color:RED;">I'm currently studying Multiplatform Software Development</h1>
+<h1>I'm currently studying Multiplatform Software Development</h1>
 
 
 
 
 
-
-
-# 🔭Actions
 
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Inaciosant"/>
