@@ -38,7 +38,9 @@
 </div>
 
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Inaciosant&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak">
+  </a>
+</p>
 
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Inaciosant&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-</div>
