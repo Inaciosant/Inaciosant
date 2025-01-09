@@ -41,8 +41,4 @@
 
 
 
-<div align="center">
-    <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Inaciosant" />
-</div>
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Inaciosant&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
