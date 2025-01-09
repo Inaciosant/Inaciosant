@@ -5,7 +5,6 @@
 
 <h5 align="center">Currently studying at Fatec Franca, São Paulo.</h5>
 
-<img src="https://site.fatecfranca.edu.br/images/logo-fatec-franca-2024.png"/>
 
 <h5 align="center" >I'm knowledgeable in the following languages:</h5>
 <div align="center">
