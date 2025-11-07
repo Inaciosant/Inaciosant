@@ -14,17 +14,7 @@
 ## 🚀 Tech Stack  
 <div align="center">
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Python](https://skillicons.dev/icons?i=python)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![React](https://skillicons.dev/icons?i=react)
-![PHP](https://skillicons.dev/icons?i=php)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,php,laravel,mysql,mongodb,firebase,flutter,dart" alt="Minhas Skills de Programação" />
 
 </div>
 
