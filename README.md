@@ -39,7 +39,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=inaciosant&theme=dark&exclude_days=Sun%2CSat)  
 
-<img src="https://github-readme-stats.vercel.app/api?username=inaciosant&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=inaciosant&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
 </div>
