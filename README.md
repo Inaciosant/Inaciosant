@@ -14,7 +14,7 @@
 ## 🚀 Tech Stack  
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,php,laravel,mysql,mongodb,firebase,flutter,dart,nextjs,tailwind" alt="Minhas Skills de Programação" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,php,laravel,mysql,mongodb,firebase,nextjs,tailwind" alt="Minhas Skills de Programação" />
 
 </div>
 
@@ -29,8 +29,6 @@
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Notion](https://skillicons.dev/icons?i=notion)
 ![Obsidian](https://skillicons.dev/icons?i=obsidian)
-
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello"/>
 
 </div>
 
