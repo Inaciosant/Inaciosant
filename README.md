@@ -14,7 +14,7 @@
 ## 🚀 Tech Stack  
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,php,laravel,mysql,mongodb,firebase,nextjs,tailwind" alt="Minhas Skills de Programação" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,php,laravel,mysql,mongodb,firebase,nextjs,tailwind,docker,vite,git" alt="Minhas Skills de Programação" />
 
 </div>
 
