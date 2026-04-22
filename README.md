@@ -32,7 +32,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,python,php,laravel" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nestjs,python,php,laravel,go" alt="Backend Skills" />
 </p>
 
 ### Database
