@@ -19,10 +19,10 @@
 ## 🚀 Tech Stack
 
 ### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue)](https://skillicons.dev)
 
 ### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=nestjs,php,laravel,go)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nestjs,php,laravel,dotnet)](https://skillicons.dev)
 
 ### Mobile
 [![Mobile Skills](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev)
